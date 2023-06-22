@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://your-choice-nzmb.onrender.com/sitemap.xml
